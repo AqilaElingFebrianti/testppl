@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#151515</color>
+    <color name="digicycle_green">#038E4C</color>
+    <color name="digicycle_green_dark">#02743E</color>
+    <color name="digicycle_green_overlay">#80038E4C</color>
+    <color name="light_gray">#F6F7FB</color>
+</resources>
