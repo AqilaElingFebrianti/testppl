@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Digicycle</string>
+    <string name="skip">Lewati</string>
+    <string name="next">Lanjut</string>
+    <string name="mulai">Mulai</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+
+    <string name="selamat_datang_di_digicycle">Selamat Datang di DigiCycle</string>
+    <string name="pilah_sampah_digital_langkah_kecil_selamatkan_lingkungan_kita">Pilah Sampah Digital, Langkah Kecil Selamatkan Lingkungan Kita</string>
+</resources>
